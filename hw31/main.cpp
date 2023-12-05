@@ -58,4 +58,6 @@ int main()
     cout << "Информация о базе: " << endl;
     base->Print();
 
+   
+    
 }
